@@ -1,0 +1,78 @@
+No. Invoice;Tgl_Invoice;KodePelanggan;Nama Pelanggan;Alamat;Kota;Provinsi;Sales;KanReg;Tgl_Kirim;Ekspedisi;Kategori Barang;Jenis Barang;Jumlah;Harga;Total;TW
+256;05/01/2018;23;Captain Marvel;Jl. Jambu mede;Mojokerto;Jatim;Mawar;Jawa;06/01/2018;JNE;Perabot;Meja Makan;1;2211000;2211000;1
+905;07/01/2018;68;Captain N;Jl. Jambu semarang;Pasuruan;Jatim;Lily;Jawa;08/01/2018;TNT ;Perabot;Kursi Makan;6;3951000;23706000;1
+492;27/01/2018;76;Captain Universe;Jl. Jeruk besar;Singkawang;Kalbar;Mawar;Kalimantan;28/01/2018;POS;Gadget;HP Apple;1;4892000;4892000;1
+602;06/02/2018;58;Aquaman;Jl. Bacang;Cilegon;Banten;Jasmine;Jawa;07/02/2018;POS;Elektronik;Mesin Cuci;3;4358000;13074000;1
+158;20/02/2018;41;Airboy;Jl. Binjai;Gorontalo;Gorontalo;Melati;Sulawesi;21/02/2018;TNT ;Perabot;Kursi Makan;3;3756000;11268000;1
+624;23/02/2018;74;Astro Boy;Jl. Belimbing;Tangerang Selatan;Banten;Melati;Jawa;24/02/2018;TNT ;Perabot;Meja Tamu;5;4737000;23685000;1
+224;07/03/2018;52;Comet Man;Jl. Kedondong;Tanjungpinang;Kepri;Melati;Sumatera;Gadget;POS;08/03/2018;Kursi Tamu;8;3139000;25112000;1
+880;11/03/2018;7;Chamber;Jl. Jeruk kingkit;Banjarmasin;Kalsel;Dahlia;Kalimantan;Perabot;TNT ;12/03/2018;HP LG;2;3989000;7978000;1
+588;15/03/2018;23;Captain Video;Jl. Jeruk keprok;Banjarbaru;Kalsel;Melati;Kalimantan;16/03/2018;JNE;Gadget;HP Oppo;4;4032000;16128000;1
+513;15/03/2018;6;Deathlok;Jl. Lai;Makassar;Sulsel;Lily;Sulawesi;16/03/2018;TNT ;Perabot;Meja Tamu;8;2627000;21016000;1
+127;27/03/2018;30;Airmale;Jl. Bisbul;Jakarta Barat;Jakarta;Jasmine;Jawa;28/03/2018;POS;Perabot;Lampu Taman;2;2464000;4928000;1
+520;27/03/2018;17;Colossus;Jl. Kecapi;Batam;Kepri;Jasmine;Sumatera;28/03/2018;TNT ;Perabot;Meja Tamu;3;2921000;8763000;1
+194;28/03/2018;52;Captain America;Jl. Holdi;Tegal;Jateng;Jasmine;Jawa;29/03/2018;JNE;Elektronik;AC;3;4910000;14730000;1
+590;05/04/2018;29;Captain Ultra;Jl. Jeruk bali;Pontianak;Kalbar;Lily;Kalimantan;06/04/2018;TNT ;;Tablet;9;4672000;42048000;2
+953;06/04/2018;27;Corsair;Jl. Kelapa;Bandar Lampung;Lampung;Dahlia;Sumatera;07/04/2018;JNE;;Meja Makan;5;4770000;23850000;2
+475;11/04/2018;72;Argoman;Jl. Baguk;Serang;Banten;Jasmine;Jawa;12/04/2018;JNE;Elektronik;Dispenser;5;3208000;16040000;2
+380;11/04/2018;39;Doctor Strange;Jl. Lengkeng;Palu;Sulteng;Melati;Sulawesi;12/04/2018;TNT ;Perabot;Kursi Makan;2;;;2
+484;12/04/2018;48;Captain Crandall;Jl. Jambu mawar;Malang;Jatim;Dahlia;Jawa;13/04/2018;POS;Perabot;Kursi Tamu;3;;;2
+853;18/04/2018;85;Doctor Spectrum;Jl. Lemon;Parepare;Sulsel;Lily;Sulawesi;19/04/2018;JNE;Perabot;Meja Makan;6;;;2
+168;21/04/2018;89;El Chapul n Colorado;Jl. Jeruk purut;Balikpapan;Kaltim;Lily;Kalimantan;22/04/2018;JNE;Elektronik;AC;4;;;2
+611;22/04/2018;67;Ant-Man;Jl. Blewah;Jakarta Timur;Jakarta;Dahlia;Jawa;23/04/2018;POS;Gadget;HP Apple;4;2948000;11792000;2
+661;22/04/2018;55;Aqualad;Jl. Gandum;Salatiga;Jateng;Jasmine;Jawa;23/04/2018;JNE;Gadget;HP Oppo;6;4843000;29058000;2
+317;18/05/2018;29;Doctor Solar;Jl. Leci;Bau-Bau;Sultra;Dahlia;Sulawesi;19/05/2018;POS;Perabot;Lampu Taman;6;4760000;28560000;2
+267;22/05/2018;45;Cleft;Jl. Kapulasan;Samarinda;Kaltim;Lily;Kalimantan;23/05/2018;POS;Elektronik;Mesin Cuci;4;2052000;8208000;2
+760;25/05/2018;72;Atom;Jl. Delima;Cimahi;Jabar;Mawar;Jawa;26/05/2018;JNE;Elektronik;Dispenser;9;4930000;44370000;2
+271;04/06/2018;69;Atom;Jl. Belimbing sayur;Tangerang;Banten;Jasmine;Jawa;05/06/2018;POS;Perabot;Kursi Tamu;1;2839000;2839000;2
+995;11/06/2018;15;Cyborg;Jl. ketela;Makassar;Sulsel;Lily;Sulawesi;12/06/2018;JNE;Gadget;HP Samsung;6;2928000;17568000;2
+371;18/06/2018;66;Angel;Jl. Enam-enam;Banjar;Jabar;Mawar;Jawa;19/06/2018;POS;Perabot;Lampu Taman;1;4163000;4163000;2
+787;25/06/2018;60;The Drummer;Jl. Lobak;Kendari;Sultra;Lily;Sulawesi;26/06/2018;JNE;Gadget;HP Samsung;9;2084000;18756000;2
+925;04/07/2018;29;Daredevil;Jl. Kokosan;Makassar;Sulsel;Lily;Sulawesi;05/07/2018;JNE;Elektronik;AC;1;3978000;3978000;3
+686;05/07/2018;29;Airboy;Jl. Anggur;Banda Aceh;Aceh;Dahlia;Sumatera;06/07/2018;JNE;Gadget;HP Samsung;6;3003000;18018000;3
+213;15/07/2018;73;Apollo ;Jl. Gandaria;Pekalongan;Jateng;Mawar;Jawa;16/07/2018;TNT ;Gadget;Tablet;4;4696000;18784000;3
+386;19/07/2018;89;Ant-Man;Jl. Asam;Sabang;Aceh;Lily;Sumatera;20/07/2018;TNT ;Gadget;HP LG;8;3360000;26880000;3
+620;09/08/2018;19;Anarchist;Jl. Enau;Tasikmalaya;Jabar;Mawar;Jawa;10/08/2018;TNT ;Perabot;Kursi Makan;6;4356000;26136000;3
+888;16/08/2018;61;Captain Planet;Jl. Jeruk;Surabaya;Jatim;Melati;Jawa;17/08/2018;JNE;Gadget;HP Samsung;3;3264000;9792000;3
+846;18/08/2018;28;Aqualad;Jl. Ceplukan;Jambi;Jambi;;Sumatera;19/08/2018;POS;Elektronik;TV;7;2350000;16450000;3
+985;19/08/2018;87;Darkman;Jl. Kurma;Dumai;Riau;;Sumatera;20/08/2018;POS;Elektronik;Mesin Cuci;9;4182000;37638000;3
+627;19/08/2018;66;Airmale;Jl. Duwet;Sukabumi;Jabar;;Jawa;20/08/2018;JNE;Perabot;Meja Makan;9;3242000;29178000;3
+252;20/08/2018;41;Crimson Chin;Jl. kelubi;Makassar;Sulsel;Lily;Sulawesi;21/08/2018;POS;Perabot;Lampu Taman;6;3288000;19728000;3
+419;20/08/2018;42;Apollo ;Jl. Bit;Jakarta Utara;Jakarta;Mawar;Jawa;21/08/2018;JNE;Gadget;HP Oppo;9;3705000;33345000;3
+933;21/08/2018;32;Atom Ant;Jl. Benda;Bengkulu;Bengkulu;Jasmine;Sumatera;22/08/2018;JNE;Perabot;Meja Makan;8;3595000;28760000;3
+867;26/08/2018;39;Captain Napalm;Jl. Jengkol;Probolinggo;Jatim;Dahlia;Jawa;27/08/2018;POS;Perabot;Lampu Taman;9;3686000;33174000;3
+283;07/09/2018;78;Deadman;Jl. Kelawi;Pekanbaru;Riau;Mawar;Sumatera;08/09/2018;JNE;Elektronik;Dispenser;2;4438000;8876000;3
+550;11/09/2018;23;Daredevil;Jl. Kiwi;Makassar;Sulsel;Lily;Sulawesi;12/09/2018;POS;Elektronik;TV;3;2880000;8640000;3
+987;13/09/2018;57;Captain Barbell;Jl. Jambu air;Blitar;Jatim;Lily;Jawa;14/09/2018;POS;Elektronik;Mesin Cuci;9;2235000;20115000;3
+236;20/09/2018;24;Aquaman;Jl. Cermai;Bandung;Jabar;Lily;Jawa;21/09/2018;JNE;Elektronik;AC;1;3760000;3760000;3
+909;21/09/2018;43;Astro Boy;Jl. Cokelat;Bogor;Jabar;Dahlia;Jawa;22/09/2018;POS;Elektronik;Mesin Cuci;8;4532000;36256000;3
+389;22/09/2018;65;Airboy;Jl. Durian;Depok;Jabar;Jasmine;Jawa;23/09/2018;POS;Perabot;Kursi Tamu;2;2000000 ;4712000;3
+867;24/09/2018;17;Changeling;Jl. Jeruk nipis;Palangkaraya;Kalteng;Jasmine;Kalimantan;25/09/2018;POS;Elektronik;TV;3;4439000;13317000;3
+493;25/09/2018;52;Danny Phantom;Jl. Kesemek;Makassar;Sulsel;Lily;Sulawesi;26/09/2018;TNT ;Gadget;HP LG;9;3226000;29034000;3
+275;27/09/2018;71;Captain Comet;Jl. Jambu bol;Madiun;Jatim;Dahlia;Jawa;28/09/2018;TNT ;Perabot;Meja Tamu;9;2024000;18216000;3
+843;28/09/2018;77;Angel;Jl. Apokat;Meulaboh;Aceh;Mawar;Sumatera;29/09/2018;JNE;Gadget;HP Oppo;2;4627000;9254000;3
+979;01/10/2018;25;Atom Ant;Jl. Duku;Cirebon;Jabar;Mawar;Jawa;Februari;TNT ;Perabot;Meja Tamu;1;4089000;4089000;4
+136;03/10/2018;30;Cosmic Boy;Jl. Kelengkeng;Metro;Lampung;Dahlia;Sumatera;04/10/2018;TNT ;Perabot;Kursi Makan;9;4696000;42264000;4
+294;08/10/2018;30;Argoman;Jl. Ceri;Bekasi;Jabar;Lily;Jawa;09/10/2018;TNT ;Elektronik;Kulkas;3;4611000;13833000;4
+777;09/10/2018;41;Airmale;Jl. Apel;Langsa;Aceh;Melati;Sumatera;10/10/2018;TNT ;Gadget;Tablet;4;2717000;10868000;4
+704;11/10/2018;69;Angel;Jl. Burahol;Jakarta Selatan;Jakarta;Melati;Jawa;12/10/2018;TNT ;Gadget;Tablet;1;3080000;3080000;4
+905;13/10/2018;7;Dynamo;Jl. Maja;Bitung;Sulut;Sulawesi;Mawar;14/10/2018;TNT ;Gadget;Tablet;1;2738000;2738000;4
+427;19/10/2018;83;Angel;Jl. Cempedak;Sungai Penuh;Jambi;Sumatera;Mawar;20/10/2018;TNT ;Gadget;HP LG;5;4254000;21270000;4
+316;19/10/2018;76;Cannonball;Jl. Hamlam;Surakarta;Jateng;Jawa;Dahlia;20/10/2018;POS;Elektronik;TV;7;4995000;34965000;4
+100;20/10/2018;48;Chuck Bodgers;Jl. Jambu neker;Bontang;Kaltim;Lily;Kalimantan;21/10/2018;TNT ;Elektronik;Kulkas;2;3331000;6662000;4
+790;21/10/2018;62;Daimon Hellstrom;Jl. Kersen;Makassar;Sulsel;Lily;Sulawesi;22/10/2018;JNE;Gadget;HP Oppo;5;4992000;24960000;4
+728;02/11/2018;76;Cyclops;Jl. Kemang;Makassar;Sulsel;Lily;Sulawesi;03/11/2018;TNT ;Gadget;Tablet;7;2062000;14434000;4
+929;04/11/2018;31;Angel;Jl. Arbei;Makassar;Sulsel;Lily;Sulawesi;05/11/2018;JNE;Elektronik;AC;4;2805000;11220000;4
+149;14/11/2018;73;Cable;Jl. Hamoi;Semarang;Jateng;Mawar;Jawa;15/11/2018;TNT ;Gadget;HP LG;3;3675000;11025000;4
+265;20/11/2018;11;Cloak;Jl. Kawista;Tarakan;Kaltara;Melati;Kalimantan;21/11/2018;JNE;Elektronik;Dispenser;5;4877000;24385000;4
+918;04/12/2018;31;Angel;Jl. Gowok;Purwokerto;Jateng;Mawar;Jawa;05/12/2018;POS;Gadget;HP Apple;1;4382000;4382000;4
+283;08/12/2018;71;Anarchist;Jl. Blueberry;Jakarta Pusat;Jakarta;Melati;Jawa;09/12/2018;JNE;Gadget;HP Samsung;8;3454000;27632000;4
+702;09/12/2018;15;Doctor Fate;Jl. Langsat;Palopo;Sulsel;Mawar;Sulawesi;10/12/2018;POS;Perabot;Kursi Tamu;8;4326000;34608000;4
+399;10/12/2018;80;Ant-Man;Jl. Frambos;Magelang;Jateng;Dahlia;Jawa;11/12/2018;JNE;Gadget;HP Samsung;6;2439000;14634000;4
+525;11/12/2018;51;Apollo ;Jl. Atap;Subulussalam;Aceh;Dahlia;Sumatera;Januari ;POS;Elektronik;TV;3;4259000;12777000;4
+839;12/12/2018;37;Cypher;Jl. Kepel;Makassar;Sulsel;Lily;Sulawesi;13/12/2018;POS;Gadget;HP Apple;5;4767000;23835000;4
+745;13/12/2018;1;Aqualad;Jl. Abiu;Pangkalpinang;Babel;Jasmine;Sumatera;14/12/2018;TNT ;Elektronik;Kulkas;8;4079000;32632000;4
+200;14/12/2018;6;Darkhawk;Jl. Koldi;Makassar;Sulsel;Lily;Sulawesi;15/12/2018;TNT ;Elektronik;Kulkas;9;2171000;19539000;4
+255;19/12/2018;80;Captain Britain;Jl. Jambu batu;Kediri;Jatim;Dahlia;Jawa;20/12/2018;JNE;Elektronik;Dispenser;4;4338000;17352000;4
+749;21/12/2018;24;Captain Atom;Jl. Jamblang;Batu;Jatim;Dahlia;Jawa;22/12/2018;TNT ;Elektronik;Kulkas;4;4882000;19528000;4
+437;26/12/2018;70;Anarchist;Jl. Aprikot;Lhokseumawe;Aceh;Lily;Sumatera;27/12/2018;POS;Gadget;HP Apple;1;3080000;3080000;4
